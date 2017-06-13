@@ -17,7 +17,7 @@ function dashboard () {
 
 		container
 			.append(name)
-			.escape(email);
+			.append(email);
 
 		var logout = $('<button>',{
 			html: 'Salir'
