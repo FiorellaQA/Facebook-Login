@@ -1,8 +1,9 @@
 # Facebook Login
 
-![Screenshot](assets/img/screenshot.png)
+* El proyecto fue realizado como parte de la Lección 42 - AJAX y API calls.
+* Para la arquitectura utilizamos el patrón de componentes.
 
-El proyecto fue realizado como parte de la Lección 42 - AJAX y API calls.
+![Screenshot](assets/img/screenshot.png)
 
 [Ver](https://fiorellaqa.github.io/Facebook-Login/)
 
