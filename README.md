@@ -5,7 +5,6 @@
 
 ![Screenshot](assets/img/screenshot.png)
 
-[Ver](https://fiorellaqa.github.io/Facebook-Login/)
 
 
 
